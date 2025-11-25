@@ -204,10 +204,6 @@ Gaikwad, J. (2025). AWS Kinesis vs azure event hub vs google pub/sub for stream 
 
 API management pricing. Microsoft Azure. (n.d.). https://azure.microsoft.com/en-ca/pricing/details/api-management/ 
 
-https://cloud.google.com/products/calculator
-https://azure.microsoft.com/pricing/calculator/ 
-https://calculator.aws/ 
-
 Google. (n.d.). Firebase realtime database. Google. https://firebase.google.com/docs/database 
 
 Google. (n.d.-a). BigQuery documentation  |  google cloud documentation. Google. https://docs.cloud.google.com/bigquery/docs 
