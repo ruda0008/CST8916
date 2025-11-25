@@ -210,6 +210,7 @@ Google. (n.d.-a). BigQuery documentation  |  google cloud documentation. Googl
 
 Google. (n.d.-b). Compare AWS and Azure Services to Google Cloud  |  get started  |  google cloud documentation. Google. https://docs.cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison 
 
+Spelluru. (n.d.). Azure event hubs documentation. Microsoft Learn. https://learn.microsoft.com/en-us/azure/event-hubs/ 
 
 - https://cloud.google.com/products/calculator
 - https://azure.microsoft.com/pricing/calculator/ 
